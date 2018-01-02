@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <windows.h>
+#include <winspool.h>
 // Links: http://winapi.freetechsecrets.com/win32/WIN32EnumPrinters.htm
 
 int main(int argc, char **argv)
